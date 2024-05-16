@@ -32,3 +32,4 @@
 #### 6. 더 자세히 알아보기 : [More](https://github.com/pmj-chosim/Collect_Survey_Result/blob/main/sessionguide/More.md)
 
 conflict되나?
+conflict 충돌 test
